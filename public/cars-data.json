@@ -1,0 +1,8 @@
+[
+    {"brand": "Toyota", "model": "Yaris", "year": 2002, "km": 230000, "id":"wfgefg"}, 
+    {"brand": "Toyota", "model": "Corola", "year": 2015, "km": 105000, "id":"wffgdggefg"}, 
+    {"brand": "Hyundai", "model": "i30", "year": 2010, "km": 150000, "id":"wffgdfbggefg"}, 
+    {"brand": "Ford", "model": "Focus", "year": 2002, "km": 210000, "id":"wffgdggefggffg"}, 
+    {"brand": "Volkswagon", "model": "Beatle", "year": 1970, "km": 1005000, "id":"wffgdggedfgfggffg"}, 
+    {"brand": "Audi", "model": "TT", "year": 2019, "km": 10000, "id":"wffgdggefggdfgffg"}
+]
